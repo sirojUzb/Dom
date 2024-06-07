@@ -23,4 +23,6 @@ function App() {
 }
 
 export default App;
-// from minute 24
+// check 1st video
+// find the error
+// watch 2nd one too
